@@ -22,5 +22,5 @@ alias deb-binary=/home/ottor/Programs/deb-binary.sh
 
 Now in new terminal sessions you can run from any directory:
 ```
-deb-binary.sh vim ~/Downloads
+deb-binary <PACKAGE> <OUTPUT_PATH>
 ```
