@@ -6,7 +6,7 @@ Downloads binary file for package of choice.
 
 ## Usage
 ```
-deb-binary \<PACKAGE\> \<OUTPUT_PATH\>
+deb-binary <PACKAGE> <OUTPUT_PATH>
 ```
 ## Example
 Downloading the vim executable to the downloads folder:
