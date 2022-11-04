@@ -2,7 +2,7 @@
 Intended for Debian based Linux systems
 
 ## Description
-Bash script file that downloads binary file for package of choice.
+Bash script file that downloads the binary file for the package of choice.
 
 ## Usage
 ```
