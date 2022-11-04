@@ -17,7 +17,7 @@ Downloading the vim executable to the downloads folder:
 ## Adding system command
 Open your ~/.bashrc file and append the following line:
 ```
-alias deb-binary=/home/ottor/Programs/deb-binary.sh
+alias deb-binary=/home/<YOUR USER>/Programs/deb-binary.sh
 ```
 
 Now in new terminal sessions you can run from any directory:
