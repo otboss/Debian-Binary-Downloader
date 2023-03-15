@@ -24,3 +24,5 @@ Now in new terminal sessions you can run from any directory:
 ```
 deb-binary <PACKAGE> <OUTPUT_PATH>
 ```
+
+Alternatively, the script file can be placed in the path ~/.local/bin/deb-binary.sh
